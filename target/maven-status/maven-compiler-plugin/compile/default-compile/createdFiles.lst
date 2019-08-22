@@ -1,0 +1,16 @@
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\common\Money.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\domain\OrderRepository.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\OrderConfiguration.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\sagas\createorder\CreateOrderSaga.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\sagas\createorder\CreateOrderSagaState.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\commandsandreplies\ApproveOrderCommand.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\commandsandreplies\CancelOrderCommand.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\domain\Order.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\sagas\createorder\CreateOrderSagaData.class
+io\eventuate\examples\tram\sagas\orderandcustomers\Main.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\service\OrderCommandHandler.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\domain\OrderState.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\service\OrderService.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\common\OrderDetails.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\commandsandreplies\RejectOrderCommand.class
+io\eventuate\examples\tram\sagas\ordersandcustomers\orders\common\ReserveCreditCommand.class
